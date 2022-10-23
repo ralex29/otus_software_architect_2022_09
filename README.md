@@ -1,5 +1,6 @@
 # [OTUS] Software Architect 2022 09 Homeworks
 
+Репозиторий с домашними работами, которые я буду выполнять в рамках курса OTUS "Software Architect"
  - [Homework 1](./homework_1/homework_1.md)
  - Homework 2
  - Homework 3
