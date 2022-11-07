@@ -36,7 +36,7 @@
 - [Google ”Building secure and reliable systems"](http://bit.ly/ReliableSystems)
 - [Google "SRE Book"](http://bit.ly/GoogleSREBook)
 - [Google "SRE Workbook"](http://bit.ly/GoogleSREWorkBook)
-
+- [«Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. The Second Edition » by Nick Rozanski and Eóin Woods, 2011](https://www.amazon.com/Software-Systems-Architecture-Stakeholders-Perspectives/dp/032171833X)
 - [Introducing EventStorming](https://www.eventstorming.com/book/)
 - [Distributed systems](http://book.mixu.net/distsys/) 
 - Microservices Patterns /Chris Richardson. — MANNING, 2018. — 520с.
