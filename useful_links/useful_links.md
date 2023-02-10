@@ -13,6 +13,7 @@
 - [Service-Based Architecture as an Alternative to Microservice Architecture](https://www.infoq.com/news/2016/10/service-based-architecture/)
 - [Платформа как сервис в Авито: как это устроено](https://habr.com/ru/company/avito/blog/527400/)
 - [Архитектурный репозитарий на базе GitLab и C4 Model для большой компании](https://www.dropbox.com/s/liu46hprn8ca0en/ArchDays.pdf?dl=0)
+- [MVC, MVP, MVI, MVVM and VIPER Design Patterns](https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac)
 
 ## Сайты
 
