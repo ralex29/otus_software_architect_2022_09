@@ -225,10 +225,13 @@
 
 ![Диаграмма контейнеров](./diagrams/system_containers.svg "Диаграмма контейнеров")
 ## Диаграмма развертывания
+![Диаграмма развертывания](./diagrams/system_deployment.svg "Диаграмма развертывания")
 ## Диаграммы последовательности для пользовательских сценариев
+![UC003 диаграмма последовательности](./diagrams/uc003_sequence_diagram.svg "UC003 диаграмма последовательности")
 # Лог архитектурных решений (ADL, ADR)
 [ADR000](./adr/adr000-test_stand.md) - конфигурирование стенда  
 [ADR001](./adr/adr001-architecture_style.md) - архитектурный стиль  
-[ADR002](./adr/adr002-generator_framework.md) - фреймворк генератора
+[ADR002](./adr/adr002-generator_framework.md) - фреймворк генератора  
+[ADR003](./adr/adr003-add_new_metodology_stratagy.md) - стратегия добавления новой методики тестирования
 
 
