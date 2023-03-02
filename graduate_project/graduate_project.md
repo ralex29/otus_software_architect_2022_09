@@ -241,6 +241,11 @@
 ![UC001 диаграмма последовательности](./diagrams/uc001_sequence_diagram.svg "UC001 диаграмма последовательности")
 ### UC002: Удаление тестового стенда
 ![UC001 диаграмма последовательности](./diagrams/uc002_sequence_diagram.svg "UC002 диаграмма последовательности")
+### UC007: Добавление новой методики тестирования
+![UC007 event storming](./diagrams/uc007_sequence_diagram.svg "UC007 диаграмма последовательности")
+### UC008: Удаление поддержки методики тестирования
+![UC008 event storming](./diagrams/uc008_sequence_diagram.svg "UC008 диаграмма последовательности")
+
 # Лог архитектурных решений (ADL, ADR)
 [ADR000](./adr/adr000-test_stand.md) - конфигурирование стенда  
 [ADR001](./adr/adr001-architecture_style.md) - архитектурный стиль  
