@@ -250,7 +250,8 @@
 [ADR000](./adr/adr000-test_stand.md) - конфигурирование стенда  
 [ADR001](./adr/adr001-architecture_style.md) - архитектурный стиль  
 [ADR002](./adr/adr002-generator_framework.md) - фреймворк генератора  
-[ADR003](./adr/adr003-add_new_metodology_stratagy.md) - стратегия добавления новой методики тестирования
-[ADR004](./adr/adr004-message_broker_choice.md) - выбор брокера сообщений
+[ADR003](./adr/adr003-message_broker_choice.md) - выбор брокера сообщений  
+[ADR004](./adr/adr004-file_repository.md) - выбор хранилища файлов S3  
+[ADR005](./adr/adr005-add_new_metodology_strategy.md) - стратегия добавления новой методики тестирования  
 
 
